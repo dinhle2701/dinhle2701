@@ -36,6 +36,10 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
         width="36" height="36" alt="Figma" />
 </a>
 
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+
 #### Frontend ####
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -63,6 +67,8 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
         width="36" height="36" alt="TailwindCSS" />
 </a>
+</div>
+<div style="width: 48%;">
 
 #### Backend ####
 
@@ -85,42 +91,58 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
     <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg" width="36"
         height="36" alt="Spring Boot" />
 </a>
+</div>
+</div>
+<br/>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 30%; height: 100px;">
 
 #### Database ####
-
+  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-        width="36" height="36" alt="PostgreSQL" />
-</a>
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+                width="36" height="36" alt="PostgreSQL" />
+        </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="36" height="36" alt="MySQL" />
-</a>
+            <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="36" height="36" alt="MySQL" />
+        </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://banner2.cleanpng.com/20180805/xgo/93261fdbdda2d37443bab5dcdc33365c.webp" width="36" height="36"
-        alt="SQL Server" />
-</a>
+            <img src="https://banner2.cleanpng.com/20180805/xgo/93261fdbdda2d37443bab5dcdc33365c.webp" width="36" height="36"
+                alt="SQL Server" />
+        </a>
+    </div>
+    <div style="width: 30%; height: 100px;">
 
 #### Systems & Operations ####
-
+  
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
-    <img src="https://tltvietnam.vn/upload/images/ubuntu-server-4.jpg" width="36" height="36" alt="Ubuntu" />
-</a>
+            <img src="https://tltvietnam.vn/upload/images/ubuntu-server-4.jpg" width="36" height="36" alt="Ubuntu" />
+        </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://homepage-media.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/01/28133406/docker-banner.png"
-        width="36" height="36" alt="Docker" />
-</a>
+            <img src="https://homepage-media.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/01/28133406/docker-banner.png"
+                width="36" height="36" alt="Docker" />
+        </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://huongdanjava.com/wp-content/uploads/2023/04/terraform.png" width="36" height="36"
-        alt="Terraform" />
-</a>
+            <img src="https://huongdanjava.com/wp-content/uploads/2023/04/terraform.png" width="36" height="36"
+                alt="Terraform" />
+        </a> 
+    </div>
+    <div style="width: 30%; height: 100px;">
 
 #### Cloud Platform ####
-
+  
 <a href="https://aws.amazon.com/vi/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
-        width="36" height="36" alt="AWS" />
-</a>
+            <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
+                width="36" height="36" alt="AWS" />
+        </a>
+    </div>
+  </div>
 
+<br/><br/>
+
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%; height: 100px;">
+ 
 #### Socials ####
 
 <a href="https://github.com/dinh-le2701" target="_blank" rel="noreferrer">
@@ -134,10 +156,16 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
     <a href="+84943483739" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
             width="32" height="32" />
-    </a>
+    </a> 
+  </div>
+  <div style="width: 48%; height: 100px;">
 
 #### Badges ####
 
 <a href="https://www.credly.com/users/cdrdle141931" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="50" height="50" />
 </a>
+  </div>
+</div>
+
+  
