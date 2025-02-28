@@ -93,9 +93,6 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
 </a>
 </div>
 </div>
-<br/>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%; height: 100px;">
 
 #### Database ####
   
@@ -109,6 +106,10 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://banner2.cleanpng.com/20180805/xgo/93261fdbdda2d37443bab5dcdc33365c.webp" width="36" height="36"
                 alt="SQL Server" />
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="36" height="36"
+                alt="MongoDB" />
         </a>
     </div>
     <div style="width: 30%; height: 100px;">
