@@ -2,9 +2,9 @@
 
 ## Fullstack Developer #
 
-🧑‍💻 I’m a fresher developer with a passion for building responsive, user-friendly web applications. Skilled in HTML,
-CSS, JavaScript, and React, I love turning design concepts into interactive experiences. I’m always expanding my
-knowledge of new technologies to improve my craft and contribute to impactful projects.
+🧑‍💻 I am a junior developer with a passion for building user-friendly and responsive web applications. With at least 8 months of experience working with HTML, CSS, JavaScript, React and Spring Boot with a few cloud services, I can create a complete webapp.
+
+Currently, I am continuing my journey as a Fullstack Developer, constantly expanding my knowledge of new technologies to enhance my skills and contribute to impactful projects. In the next three years, I am looking forward to progressing to a Solution Architect position on AWS cloud platform.
 
 * 🌍  I'm lived in Ho Chi Minh City, Viet Nam.
 * ✉️  You can contact me at [dinhlt2701@gmail.com](mailto:levanisarishvili322@gmail.com)
@@ -93,6 +93,9 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
 </a>
 </div>
 </div>
+<br/>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 30%; height: 100px;">
 
 #### Database ####
   
@@ -138,8 +141,6 @@ knowledge of new technologies to improve my craft and contribute to impactful pr
         </a>
     </div>
   </div>
-
-<br/><br/>
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%; height: 100px;">
