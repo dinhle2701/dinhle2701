@@ -40,7 +40,7 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
 
-#### Frontend ####
+#### Tech Stacks ####
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -67,10 +67,6 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
         width="36" height="36" alt="TailwindCSS" />
 </a>
-</div>
-<div style="width: 48%;">
-
-#### Backend ####
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://banner2.cleanpng.com/20181126/zpf/kisspng-java-scalable-vector-graphics-computer-software-lo-reveal-js-the-html-presentation-framework-1713918309448.webp"
@@ -91,14 +87,6 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
     <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg" width="36"
         height="36" alt="Spring Boot" />
 </a>
-</div>
-</div>
-<br/>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%; height: 100px;">
-
-#### Database ####
-  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
                 width="36" height="36" alt="PostgreSQL" />
@@ -114,32 +102,31 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
             <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="36" height="36"
                 alt="MongoDB" />
         </a>
-    </div>
-    <div style="width: 30%; height: 100px;">
+</div>
+<div style="width: 48%;">
 
-#### Systems & Operations ####
+
+#### Operations & Cloud Platform ####
   
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
-            <img src="https://tltvietnam.vn/upload/images/ubuntu-server-4.jpg" width="36" height="36" alt="Ubuntu" />
+            <img src="https://tltvietnam.vn/upload/images/ubuntu-server-4.jpg" width="40" height="40" alt="Ubuntu" />
         </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://homepage-media.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/01/28133406/docker-banner.png"
                 width="36" height="36" alt="Docker" />
         </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-            <img src="https://huongdanjava.com/wp-content/uploads/2023/04/terraform.png" width="36" height="36"
+            <img src="https://huongdanjava.com/wp-content/uploads/2023/04/terraform.png" width="40" height="40"
                 alt="Terraform" />
         </a> 
-    </div>
-    <div style="width: 30%; height: 100px;">
-
-#### Cloud Platform ####
-  
-<a href="https://aws.amazon.com/vi/" target="_blank" rel="noreferrer">
+        <a href="https://aws.amazon.com/vi/" target="_blank" rel="noreferrer">
             <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
                 width="36" height="36" alt="AWS" />
         </a>
     </div>
+    <div style="width: 30%; height: 100px;">
+
+</div>
   </div>
 
 <div style="display: flex; justify-content: space-between;">
@@ -169,5 +156,3 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
 </a>
   </div>
 </div>
-
-  
