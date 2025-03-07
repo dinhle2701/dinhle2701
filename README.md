@@ -169,5 +169,3 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
 </a>
   </div>
 </div>
-
-  
