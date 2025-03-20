@@ -13,8 +13,6 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
 
 ### Skills ###
 
-#### Tools - IDE ####
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
         width="36" height="36" alt="Git" />
@@ -35,13 +33,6 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
         width="36" height="36" alt="Figma" />
 </a>
-
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-
-#### Tech Stacks ####
-
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
         width="36" height="36" alt="HTML5" />
@@ -102,11 +93,6 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
             <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="36" height="36"
                 alt="MongoDB" />
         </a>
-</div>
-<div style="width: 48%;">
-
-
-#### Operations & Cloud Platform ####
   
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
             <img src="https://tltvietnam.vn/upload/images/ubuntu-server-4.jpg" width="40" height="40" alt="Ubuntu" />
@@ -123,17 +109,13 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
             <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
                 width="36" height="36" alt="AWS" />
         </a>
-    </div>
-    <div style="width: 30%; height: 100px;">
-
-</div>
-  </div>
-
-<div style="display: flex; justify-content: space-between;">
-<div style="width: 48%; height: 100px;">
  
-#### Socials ####
+### Socials ###
 
+<a href="+84943483739" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
+            width="37" height="37" />
+    </a> 
 <a href="https://github.com/dinh-le2701" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
             width="32" height="32" />
@@ -142,17 +124,7 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
             width="32" height="32" />
     </a>
-    <a href="+84943483739" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
-            width="32" height="32" />
-    </a> 
-  </div>
-  <div style="width: 48%; height: 100px;">
-
-#### Badges ####
-
 <a href="https://www.credly.com/users/cdrdle141931" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="50" height="50" />
-</a>
-  </div>
-</div>
+    <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="36" height="36" />
+    </a>
+    
