@@ -1,17 +1,40 @@
-# Hi 👋 My name is Le Tat Dinh #
-
-## Fullstack Developer #
-
+<h1 align="center">Hi 👋 My name is Le Tat Dinh</h1>
+<h2 align="center">Cloud Developer</h2>
+<p align="left"> 
 🧑‍💻 I am a junior developer with a passion for building user-friendly and responsive web applications. With at least 8 months of experience working with HTML, CSS, JavaScript, React and Spring Boot with a few cloud services, I can create a complete webapp.
 
-Currently, I am continuing my journey as a Fullstack Developer, constantly expanding my knowledge of new technologies to enhance my skills and contribute to impactful projects. In the next three years, I am looking forward to progressing to a Solution Architect position on AWS cloud platform.
+🧑‍💻 Currently, I am continuing my journey as a Fullstack Developer, constantly expanding my knowledge of new technologies to enhance my skills and contribute to impactful projects. In the next three years, I am looking forward to progressing to a Solution Architect position on AWS cloud platform.
+</p>
 
-* 🌍  I'm lived in Ho Chi Minh City, Viet Nam.
-* ✉️  You can contact me at [dinhlt2701@gmail.com](mailto:levanisarishvili322@gmail.com)
-* 🧠  I'm learning Next.js, Python & AWS Cloud Platform
-* 🤝  I'm open to collaborating on Interesting projects with fellow tech enthusiasts.
+- 🔭 I’m currently working on **DevOps and Cloud Developer**
 
-### Skills ###
+- 🌱 I’m currently learning **AWS, NextJS & Python**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/dinhle2701](https://github.com/dinhle2701)**
+
+- 💬 Ask me about **DevOps and Cloud, Automation, Software Architecture**
+
+- 📫 How to reach me **[dinhlt2701@gmail.com](mailto:dinhlt2701@gmail.com)**
+
+- 🌍 I'm lived in Ho Chi Minh City, Viet Nam.
+
+* 🤝 I'm open to collaborating on Interesting projects with fellow tech enthusiasts.
+
+## Connect with me ##
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="+84943483739" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png" alt="Le Dinh" height="40" width="40" /></a>
+<a href="https://github.com/dinh-le2701" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Le Dinh" height="30" width="30" /></a>
+<a href="https://twitter.com/logicopslab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logicopslab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravish-rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravish-rawat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dinhle141931/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="logicopslab" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/cdrdle141931" target="blank"><img align="center" src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" alt="logicopslab" height="40" width="40" /></a>
+</p>
+
+### Languages and Tools: ###
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
@@ -102,29 +125,10 @@ Currently, I am continuing my journey as a Fullstack Developer, constantly expan
                 width="36" height="36" alt="Docker" />
         </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-            <img src="https://huongdanjava.com/wp-content/uploads/2023/04/terraform.png" width="40" height="40"
+            <img src="https://4ops.gallerycdn.vsassets.io/extensions/4ops/terraform/0.2.5/1648166113369/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"
                 alt="Terraform" />
         </a> 
         <a href="https://aws.amazon.com/vi/" target="_blank" rel="noreferrer">
             <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY"
                 width="36" height="36" alt="AWS" />
         </a>
- 
-### Socials ###
-
-<a href="+84943483739" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
-            width="37" height="37" />
-    </a> 
-<a href="https://github.com/dinh-le2701" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-            width="32" height="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/dinh-le-60454427a/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="32" height="32" />
-    </a>
-<a href="https://www.credly.com/users/cdrdle141931" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="36" height="36" />
-    </a>
-    
